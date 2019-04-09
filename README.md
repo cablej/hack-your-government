@@ -21,4 +21,4 @@ Other government agencies offer avenues for disclosure without providing authori
 | -------------------------------------- | ------------------------------------------------------------ | -------------------------------- |
 | DHS via U.S. CERT | https://www.kb.cert.org/vuls/govreport/ |                       |
 | UK Government via NCSC | https://www.ncsc.gov.uk/information/vulnerability-reporting |                       |
-
+| Government of India via NCIIPC | https://nciipc.gov.in/RVDP.html |                  |

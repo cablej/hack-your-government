@@ -1,8 +1,8 @@
 # Can you hack your government?
 
-Vulnerability disclosure policies and bug bounty programs are becoming standard across companies and governments. Beginning with the U.S. Department of Defense, several government agencies worldwide have implemented vulnerability disclosure programs.
+Vulnerability disclosure policies and bug bounty programs are becoming standard across industry and government. Beginning with the U.S. Department of Defense, several government agencies worldwide have implemented vulnerability disclosure programs.
 
-This is a list of government agencies that have bug bounty programs or vulnerability disclosure policies. Please reach out if any government agencies are missing from this list.
+This is a list of government agencies that have bug bounty programs or vulnerability disclosure policies. Please submit a pull request if any government agencies are missing from this list.
 
 Note: This list is not an invitation to hack any of the listed organizations. Ensure that you comply with all listed terms of an organization's vulnerability disclosure policy.
 

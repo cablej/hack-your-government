@@ -14,7 +14,7 @@ Note: This list is not an invitation to hack any of the listed organizations. En
 | Centers for Medicare & Medicaid Services (CMS) | VDP | None | https://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/CIO-Directives-and-Policies/Downloads/CMS-Vulnerability-Disclosure-Policy.pdf | Safe Harbor |
 | State of Delaware                      | VDP        |             | https://delaware.gov/help/responsible-disclosure.shtml       | Partial Safe Harbor                      |
 | Washington D.C. | VDP |  None |https://octo.dc.gov/sites/default/files/dc/sites/octo/publication/attachments/Responsible%20Disclosure%20Policy%20.pdf | |
-| Netherlands NCSC                       | VDP        | Up to €300  | https://www.ncsc.nl/english/security                         |                                  |
+| Netherlands NCSC                       | VDP        | Up to €300  | https://www.ncsc.nl/security                         |                                  |
 | Netherlands Central Government         | VDP        |             | https://www.government.nl/topics/cybercrime/fighting-cybercrime-in-the-netherlands/responsible-disclosure |                                  |
 | United Kingdom NCSC | VDP | None | https://hackerone.com/ncsc_uk | |
 

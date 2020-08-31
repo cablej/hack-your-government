@@ -12,6 +12,7 @@ Note: This list is not an invitation to hack any of the listed organizations. En
 | U.S. Department of Defense             | Bug Bounty | Varies      |                                                              | Private, time-limited challenges |
 | GSA Technology Transformation Services | Bug Bounty | $150-$5,000 | https://hackerone.com/tts                                    | Safe Harbor                      |
 | Centers for Medicare & Medicaid Services (CMS) | VDP | None | https://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/CIO-Directives-and-Policies/Downloads/CMS-Vulnerability-Disclosure-Policy.pdf | Safe Harbor |
+| Ohio Secretary of State | VDP | None | https://www.ohiosos.gov/vulnerability-disclosure-policy/ | Safe Harbor
 | State of Delaware                      | VDP        |             | https://delaware.gov/help/responsible-disclosure.shtml       | Partial Safe Harbor                      |
 | Washington D.C. | VDP |  None |https://octo.dc.gov/sites/default/files/dc/sites/octo/publication/attachments/Responsible%20Disclosure%20Policy%20.pdf | |
 | Netherlands NCSC                       | VDP        | Up to €300  | https://www.ncsc.nl/security                         |                                  |

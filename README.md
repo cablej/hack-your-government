@@ -12,7 +12,7 @@ Note: This list is not an invitation to hack any of the listed organizations. En
 | U.S. Department of Defense             | Bug Bounty | Varies      |                                                              | Private, time-limited challenges |
 | GSA Technology Transformation Services | Bug Bounty | $150-$5,000 | https://hackerone.com/tts                                    | Safe Harbor                      |
 | U.S. Securities and Exchange Commission | VDP | None | https://www.sec.gov/vulnerability-disclosure-policy | Safe Harbor |
-| U.S. Department of Energy Office of Scientific and Technical Information | VDP | None | Partial Safe Harbor |
+| U.S. Department of Energy Office of Scientific and Technical Information | VDP | None | https://www.osti.gov/vulnerability-disclosure-policy | Partial Safe Harbor |
 | Fermi National Accelerator Laboratory | VDP | None | https://computing.fnal.gov/cybersecurity/vulnerability-disclosure-policy/ | None |
 | Centers for Medicare & Medicaid Services (CMS) | VDP | None | https://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/CIO-Directives-and-Policies/Downloads/CMS-Vulnerability-Disclosure-Policy.pdf | Safe Harbor |
 | Ohio Secretary of State | VDP | None | https://www.ohiosos.gov/vulnerability-disclosure-policy/ | Safe Harbor

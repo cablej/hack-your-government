@@ -4,6 +4,8 @@ Vulnerability disclosure policies and bug bounty programs are becoming standard 
 
 This is a list of government agencies that have bug bounty programs or vulnerability disclosure policies. Please submit a pull request if any government agencies are missing from this list.
 
+For a full list of U.S. government vulnerability disclosure policies, see https://github.com/cisagov/vdp-in-fceb.
+
 Note: This list is not an invitation to hack any of the listed organizations. Ensure that you comply with all listed terms of an organization's vulnerability disclosure policy.
 
 | Organization                           | Type       | Rewards     | Link                                                         | Notes                            |

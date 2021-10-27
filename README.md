@@ -15,6 +15,7 @@ Note: This list is not an invitation to hack any of the listed organizations. En
 | U.S. Department of Energy Office of Scientific and Technical Information | VDP | None | https://www.osti.gov/vulnerability-disclosure-policy | Partial Safe Harbor |
 | Fermi National Accelerator Laboratory | VDP | None | https://computing.fnal.gov/cybersecurity/vulnerability-disclosure-policy/ | None |
 | Centers for Medicare & Medicaid Services (CMS) | VDP | None | https://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/CIO-Directives-and-Policies/Downloads/CMS-Vulnerability-Disclosure-Policy.pdf | Safe Harbor |
+| Iowa Secretary of State | VDP | None | https://sos.iowa.gov/pdf/IOWA_SOS_VDP_Policy.pdf | Safe Harbor | 
 | Ohio Secretary of State | VDP | None | https://www.ohiosos.gov/vulnerability-disclosure-policy/ | Safe Harbor
 | State of Delaware                      | VDP        |             | https://delaware.gov/help/responsible-disclosure.shtml       | Partial Safe Harbor                      |
 | Washington D.C. | VDP |  None |https://octo.dc.gov/sites/default/files/dc/sites/octo/publication/attachments/Responsible%20Disclosure%20Policy%20.pdf | |

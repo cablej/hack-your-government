@@ -16,6 +16,7 @@ Note: This list is not an invitation to hack any of the listed organizations. En
 | State of Delaware                      | VDP        |             | https://delaware.gov/help/responsible-disclosure.shtml       | Partial Safe Harbor                      |
 | Washington D.C. | VDP |   N/A |https://octo.dc.gov/sites/default/files/dc/sites/octo/publication/attachments/Responsible%20Disclosure%20Policy%20.pdf | |
 | Minnesota Secretary of State | VDP | N/A | https://sos.mn.gov/about-the-office/about-the-office/vulnerability-disclosure-program/ |
+| Idaho Secretary of State | VDP | N/A | https://sos.idaho.gov/vulnerability-disclosure-policy/ |
 | South Carolina Election Commission | VDP | N/A | https://scvotes.gov/resources/vulnerability-disclosure-program/ |
 | State of New Jersey | VDP | N/A | https://www.cyber.nj.gov/report/vulnerability-disclosure/vulnerability-disclosure-policy |
 | City of Los Angeles | VDP | N/A | https://hackerone.com/city_of_los_angeles_vdp |
